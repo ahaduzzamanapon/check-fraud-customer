@@ -31,14 +31,14 @@ This will publish `check_fraud_customer.php` to your `config` directory. You wil
 Example `.env` variables:
 
 ```
-STEADFAST_USER=your_steadfast_username
-STEADFAST_PASSWORD=your_steadfast_password
+STEADFAST_USER=xxxxxx@gmail.com
+STEADFAST_PASSWORD="xxxxxxxxx"
 
-PATHAO_USER=your_pathao_username
-PATHAO_PASSWORD=your_pathao_password
+PATHAO_USER=xxxxxx@gmail.com
+PATHAO_PASSWORD="xxxxx"
 
-REDX_PHONE=your_redx_phone_number
-REDX_PASSWORD=your_redx_password
+REDX_PHONE=01xxxxxxx
+REDX_PASSWORD="xxxxxxx"
 ```
 
 ## Usage
